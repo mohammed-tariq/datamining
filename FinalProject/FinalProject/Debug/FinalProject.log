@@ -1,0 +1,5 @@
+﻿  project.c
+c:\users\mahe\source\repos\final year project\finalproject\finalproject\project.c(98): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+c:\users\mahe\source\repos\final year project\finalproject\finalproject\project.c(114): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+c:\users\mahe\source\repos\final year project\finalproject\finalproject\project.c(491): warning C4477: 'printf' : format string '%c' requires an argument of type 'int', but variadic argument 3 has type 'rareQueue *'
+  FinalProject.vcxproj -> C:\Users\Mahe\source\repos\final year project\FinalProject\Debug\FinalProject.exe
